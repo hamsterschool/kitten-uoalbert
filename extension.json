@@ -1,0 +1,7 @@
+{
+	"version": "1.0.0",
+	"name": "UO 알버트",
+	"type": "scratch3",
+	"extensions": ["uoalbert"],
+	"image": "uoalbert-image.png"
+}
